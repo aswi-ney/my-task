@@ -14,7 +14,7 @@ export function Sidebar() {
           <Calendar className="h-5 w-5" />
           <span>Schedule</span>
         </Link>
-        <Link href="/vessels" className="flex items-center space-x-3 px-4 py-2 bg-white/10 rounded">
+        <Link href="/vessels" className="flex items-center space-x-3 px-4 py-2 bg-white/50 rounded">
           <Ship className="h-5 w-5" />
           <span>Vessels</span>
         </Link>

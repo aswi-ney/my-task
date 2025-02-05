@@ -90,6 +90,7 @@ export function VesselList() {
 
   return (
     <div className="bg-white rounded-lg shadow">
+      <h1 className=" px-4 py-4 flex text-2xl font-bold text-blue-500"> Vessel List</h1>
       <div className="p-6">
         <div className="flex justify-between items-center mb-6">
           <div className="relative w-80">
@@ -165,7 +166,7 @@ export function VesselList() {
                   <td className="px-4 py-3 text-sm">
                     <button className="p-1 hover:bg-gray-100 rounded-full">
                       <MoreVertical className="h-4 w-4 text-gray-400" />
-                    </button>
+                  </button>
                   </td>
                 </tr>
               ))}

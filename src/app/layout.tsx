@@ -8,7 +8,7 @@ import type React from "react" // Added import for React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Vessel Management System",
+  title: "Vessel",
   description: "Track and manage vessels efficiently",
 }
 

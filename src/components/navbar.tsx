@@ -4,7 +4,7 @@ import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigge
 
 export function Navbar() {
   return (
-    <nav className="h-16 border-b bg-blue-200 px-4">
+    <nav className="h-16 border-b bg-white px-4">
       <div className="flex h-full items-center justify-between">
         <h1 className="text-lg font-medium">Vessels</h1>
 
